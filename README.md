@@ -30,5 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaanknsr&" alt="kaanknsr" /></p>
 
-
 ![snake gif](https://github.com/kaanknsr/kaanknsr/blob/output/github-contribution-grid-snake.gif)
