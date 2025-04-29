@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/TjPipokaxYJVHPPWPY/giphy.gif?cid=ecf05e47ild20aplp5oiebgocgdcf8r9jiaaqd0xwezx5fzk&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Sublime's custom image"/>
 </p>
 <h1 align="center">Hi 👋, I'm Kaan</h1>
-<h3 align="center">I am an IT student at Trakya University and I am dealing with Mobile Application Development.</h3>
+<h3 align="center">I am an IT student at Trakya University and I am dealing with Software Development.</h3>
 
 - 🌱 I’m currently learning **Mobile application development with Kotlin**
 
