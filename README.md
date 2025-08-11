@@ -2,11 +2,7 @@
   <img src="https://media.giphy.com/media/TjPipokaxYJVHPPWPY/giphy.gif?cid=ecf05e47ild20aplp5oiebgocgdcf8r9jiaaqd0xwezx5fzk&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Sublime's custom image"/>
 </p>
 <h1 align="center">Hi 👋, I'm Kaan</h1>
-<h3 align="center">I am an IT student at Trakya University and I am dealing with Software Development.</h3>
-
-- 🌱 I’m currently learning **Mobile application development with Kotlin**
-
-- 📫 How to reach me **kaankenesari@gmail.com**
+<h3 align="center">I am interested in Software Development and Information Technologies..</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaanknsr&" alt="kaanknsr" /></p>
 
-![snake gif](https://github.com/kaanknsr/kaanknsr/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/kaanknsr/kaanknsr/blob/output/github-contribution-grid-snake.gif)-->
